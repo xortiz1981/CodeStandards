@@ -5,6 +5,9 @@ This demo is used to demonstrated some rules of codifying for a team of developm
 
 Este es un proyecto de demostración para mostrar algunas reglas de codificación para un equipo de desarrollo. Este proyecto puede ser mejorado su progreso. NADA ESTA ESRITO EN PIEDRA.
 
+This project is about a calculator for two values and one operator (+,-,*,/).  It was built using unit testing and integration testing. 
+
+Este proyecto es acerca de una calculdora para dos valor y un operador (+,-,*,/). Este fue contruido empleando pruebas unitarias y pruebas de integracion. 
 
 ### **Start / Inicio**
 
